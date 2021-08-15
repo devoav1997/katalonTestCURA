@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Basic working flow test for CURA</description>
+   <name>Basic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d27cee7c-524c-435b-9012-06b92ca75d99</testCaseGuid>
+</TestCaseEntity>
